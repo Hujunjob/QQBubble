@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BubbleView">
+        <attr name="bubble_size" format="integer">20</attr>
+        <attr name="bubble_color" format="color">0xff0000</attr>
+    </declare-styleable>
+</resources>
